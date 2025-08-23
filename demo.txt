@@ -1,0 +1,2 @@
+Adding new file without using GIT ADD
+New line added

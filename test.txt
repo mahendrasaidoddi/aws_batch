@@ -1,0 +1,2 @@
+This is my new file inside GIT repo.
+Adding another line in same file
