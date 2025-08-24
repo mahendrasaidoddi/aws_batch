@@ -1,4 +1,3 @@
 Adding new file without using "git add ."
 New line added
 Adding 3rd line
-Added 4th line
